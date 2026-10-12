@@ -1,6 +1,6 @@
 {
- "version": "14.2",
- "url": "releases/StarCommand-v14.2.zip",
- "sha256": "bf37c978724bc629dc82bad60d2aeff928d8508479aa9584a5006628e74b3736",
- "notes": "Vinted photo analysis fixed; icons always open the newest copy"
+ "version": "14.3",
+ "url": "releases/StarCommand-v14.3.zip",
+ "sha256": "206162227e5ed83b9fa7951c5ee25c9e54ccbc04e138d64eaa4b6489dd64ad0b",
+ "notes": "Clean white look"
 }
