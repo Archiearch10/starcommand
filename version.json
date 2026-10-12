@@ -1,6 +1,6 @@
 {
- "version": "14.8",
- "url": "releases/StarCommand-v14.8.zip",
- "sha256": "4d49cd7f1d5e5c8da12fc429f6bbc7e07387c036467e3d5e18f949ad5fe304c4",
- "notes": "The Operations Hub replaces the Command Bridge"
+ "version": "14.9",
+ "url": "releases/StarCommand-v14.9.zip",
+ "sha256": "9ccc08a718d7f07ed74faab554b427689e298dedfee573202a0d246c47b093fe",
+ "notes": "Plain, calm colours and a neat station"
 }
