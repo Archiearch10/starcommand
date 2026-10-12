@@ -1,6 +1,6 @@
 {
- "version": "14.3",
- "url": "releases/StarCommand-v14.3.zip",
- "sha256": "206162227e5ed83b9fa7951c5ee25c9e54ccbc04e138d64eaa4b6489dd64ad0b",
- "notes": "Clean white look"
+ "version": "14.4",
+ "url": "releases/StarCommand-v14.4.zip",
+ "sha256": "3bb5fe2866f8c16e9a93bc0292fca177c257ead1c836f84c81f8c7fe80eac96c",
+ "notes": "The Station in clean white"
 }
