@@ -1,6 +1,6 @@
 {
- "version": "14.9",
- "url": "releases/StarCommand-v14.9.zip",
- "sha256": "9ccc08a718d7f07ed74faab554b427689e298dedfee573202a0d246c47b093fe",
- "notes": "Plain, calm colours and a neat station"
+ "version": "15.0",
+ "url": "releases/StarCommand-v15.0.zip",
+ "sha256": "f01e07b111deecf4161221763ce951f8c53796f5e8679a6e77194dd0915574ee",
+ "notes": "A clean, flat, professional station"
 }
