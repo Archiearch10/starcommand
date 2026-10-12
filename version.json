@@ -1,6 +1,6 @@
 {
- "version": "15.3",
- "url": "releases/StarCommand-v15.3.zip",
- "sha256": "15649d9e91ba1f01b56aa27201b3c344ad3ee78551623b0ded8d118e732f24ee",
- "notes": "A compact, realistic office with the boss facing the team"
+ "version": "15.4",
+ "url": "releases/StarCommand-v15.4.zip",
+ "sha256": "0d4dc325124c25c72cbe285bfef6bf472fd77c37697e175e412cc1c69da96ea9",
+ "notes": "Smaller office, big meeting room and team briefings"
 }
