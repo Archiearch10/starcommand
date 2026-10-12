@@ -1,6 +1,6 @@
 {
- "version": "14.6",
- "url": "releases/StarCommand-v14.6.zip",
- "sha256": "1fdb99ed0492c30d39020e76549b0418a5e124f372b76c4ee79da9161a99a078",
- "notes": "Live view: workflow map, team board and live run logs"
+ "version": "14.7",
+ "url": "releases/StarCommand-v14.7.zip",
+ "sha256": "60a94f4f4d267c14dd13213084a20b8601e6eeb50e5cd001a2fd903952d03f5e",
+ "notes": "A tidy, organised station that re-arranges itself"
 }
