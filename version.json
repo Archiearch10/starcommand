@@ -1,6 +1,6 @@
 {
- "version": "14.1",
- "url": "releases/StarCommand-v14.1.zip",
- "sha256": "1b5963a7cd0045c2a59e12c8e9d0bfdff5da67e42cdcd01ef378666bac50f474",
- "notes": "A professional new look, a live Today timeline and automatic updates"
+ "version": "14.2",
+ "url": "releases/StarCommand-v14.2.zip",
+ "sha256": "bf37c978724bc629dc82bad60d2aeff928d8508479aa9584a5006628e74b3736",
+ "notes": "Vinted photo analysis fixed; icons always open the newest copy"
 }
