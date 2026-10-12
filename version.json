@@ -1,6 +1,6 @@
 {
- "version": "14.5",
- "url": "releases/StarCommand-v14.5.zip",
- "sha256": "d2d90d5c43d786ddbe7be0bc7814b5141f6db7eeaccad891828eb64ccd60839d",
- "notes": "New Live view: workflow map, team board and live run logs"
+ "version": "14.6",
+ "url": "releases/StarCommand-v14.6.zip",
+ "sha256": "1fdb99ed0492c30d39020e76549b0418a5e124f372b76c4ee79da9161a99a078",
+ "notes": "Live view: workflow map, team board and live run logs"
 }
