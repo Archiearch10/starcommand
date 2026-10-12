@@ -1,6 +1,6 @@
 {
- "version": "14.4",
- "url": "releases/StarCommand-v14.4.zip",
- "sha256": "3bb5fe2866f8c16e9a93bc0292fca177c257ead1c836f84c81f8c7fe80eac96c",
- "notes": "The Station in clean white"
+ "version": "14.5",
+ "url": "releases/StarCommand-v14.5.zip",
+ "sha256": "d2d90d5c43d786ddbe7be0bc7814b5141f6db7eeaccad891828eb64ccd60839d",
+ "notes": "New Live view: workflow map, team board and live run logs"
 }
