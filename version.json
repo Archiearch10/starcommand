@@ -1,6 +1,6 @@
 {
- "version": "15.2",
- "url": "releases/StarCommand-v15.2.zip",
- "sha256": "d07b165c57d9f270d5a44fc6a815d105c0a7a11745f56ba82b623f56cc6784a5",
- "notes": "Short menu, talk to any agent, and a busy real office"
+ "version": "15.3",
+ "url": "releases/StarCommand-v15.3.zip",
+ "sha256": "15649d9e91ba1f01b56aa27201b3c344ad3ee78551623b0ded8d118e732f24ee",
+ "notes": "A compact, realistic office with the boss facing the team"
 }
