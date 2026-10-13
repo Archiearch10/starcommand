@@ -1,6 +1,6 @@
 {
- "version": "15.7",
- "url": "releases/StarCommand-v15.7.zip",
- "sha256": "5406267076a17746785313eca6b12f20916eba6f328706deee0fe9eb58d7e506",
- "notes": "Fixes 'browser tool not installed' when Settings said it was: adds a Repair browser tool button and checks the browser itself is downloaded."
+ "version": "15.8",
+ "url": "releases/StarCommand-v15.8.zip",
+ "sha256": "f97d31fa23cd3f5e887329a645365ea8180cec5dfd879386e813f249fa3870c9",
+ "notes": "Browser tool: restarts after repair, new Test browser button that shows the exact problem, automatic fresh Vinted profile if the old one is locked."
 }
