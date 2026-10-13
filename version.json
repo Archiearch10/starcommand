@@ -1,6 +1,6 @@
 {
- "version": "15.6",
- "url": "releases/StarCommand-v15.6.zip",
- "sha256": "edf516e487cfdf50a94ddc18ef7690a30aa00b289ac2913293ab2ec0ab29fafd",
- "notes": "Fewer Groq rate-limit errors: smaller requests, smart waiting and automatic backup to your other keys (OpenAI uses cheap gpt-4o-mini)."
+ "version": "15.7",
+ "url": "releases/StarCommand-v15.7.zip",
+ "sha256": "5406267076a17746785313eca6b12f20916eba6f328706deee0fe9eb58d7e506",
+ "notes": "Fixes 'browser tool not installed' when Settings said it was: adds a Repair browser tool button and checks the browser itself is downloaded."
 }
