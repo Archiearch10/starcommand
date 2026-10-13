@@ -1,6 +1,6 @@
 {
- "version": "15.8",
- "url": "releases/StarCommand-v15.8.zip",
- "sha256": "f97d31fa23cd3f5e887329a645365ea8180cec5dfd879386e813f249fa3870c9",
- "notes": "Browser tool: restarts after repair, new Test browser button that shows the exact problem, automatic fresh Vinted profile if the old one is locked."
+ "version": "15.9",
+ "url": "releases/StarCommand-v15.9.zip",
+ "sha256": "927a41f39658bc38e54369679377b51712fae8a25547db36cec4708eb3bc7ca3",
+ "notes": "Vinted window fits the screen, cookie box is answered automatically, and it uses your normal Chrome or Edge so Google login works."
 }
