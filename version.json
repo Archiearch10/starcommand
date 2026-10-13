@@ -1,6 +1,6 @@
 {
- "version": "15.5",
- "url": "releases/StarCommand-v15.5.zip",
- "sha256": "81177637b6b4c6addf503dac425874c844c15c64cb8e20f569629597c99e9556",
- "notes": "Every team gets desks with computers"
+ "version": "15.6",
+ "url": "releases/StarCommand-v15.6.zip",
+ "sha256": "edf516e487cfdf50a94ddc18ef7690a30aa00b289ac2913293ab2ec0ab29fafd",
+ "notes": "Fewer Groq rate-limit errors: smaller requests, smart waiting and automatic backup to your other keys (OpenAI uses cheap gpt-4o-mini)."
 }
