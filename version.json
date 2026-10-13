@@ -1,6 +1,6 @@
 {
- "version": "15.10",
- "url": "releases/StarCommand-v15.10.zip",
- "sha256": "da2c690eab2221aee7781554f99e1d1f0ea5703e6bd0ab652a4ae6e06742fe1c",
- "notes": "New Log in to Vinted button: opens a normal browser window so Continue with Google works, then the form filler reuses the login."
+ "version": "15.11",
+ "url": "releases/StarCommand-v15.11.zip",
+ "sha256": "2508f3bb6d1b274e12d94dc71d9d4aada88392cc812e54b1d44f18bc647db854",
+ "notes": "Fixes 'login window is still open': StarCommand now closes the Vinted login window itself when you press Test browser."
 }
