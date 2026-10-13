@@ -1,6 +1,6 @@
 {
- "version": "15.13",
- "url": "releases/StarCommand-v15.13.zip",
- "sha256": "7c41e026f80e0c5740a1290bf8f15f76a06d8b77bb7bf0f42dba47c0f9cebb32",
- "notes": "Test browser no longer opens blank tabs: StarCommand now properly closes the Edge login window that kept running in the background."
+ "version": "15.14",
+ "url": "releases/StarCommand-v15.14.zip",
+ "sha256": "a03c780d3d7cdb1f4cbc531ce6346eb5e91590f60136eeb5750037e4805e1e5d",
+ "notes": "Pressing Fill on a Vinted item now opens the Vinted window and fills the form straight away."
 }
