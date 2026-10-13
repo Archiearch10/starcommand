@@ -1,6 +1,6 @@
 {
- "version": "15.12",
- "url": "releases/StarCommand-v15.12.zip",
- "sha256": "af21b3986110555b095b080bbccccf8b0a4fbaefe9a553d6aa37ab3242a8f43d",
- "notes": "Log in to Vinted now opens the right page (it showed Page not found)."
+ "version": "15.13",
+ "url": "releases/StarCommand-v15.13.zip",
+ "sha256": "7c41e026f80e0c5740a1290bf8f15f76a06d8b77bb7bf0f42dba47c0f9cebb32",
+ "notes": "Test browser no longer opens blank tabs: StarCommand now properly closes the Edge login window that kept running in the background."
 }
