@@ -1,6 +1,6 @@
 {
- "version": "15.9",
- "url": "releases/StarCommand-v15.9.zip",
- "sha256": "927a41f39658bc38e54369679377b51712fae8a25547db36cec4708eb3bc7ca3",
- "notes": "Vinted window fits the screen, cookie box is answered automatically, and it uses your normal Chrome or Edge so Google login works."
+ "version": "15.10",
+ "url": "releases/StarCommand-v15.10.zip",
+ "sha256": "da2c690eab2221aee7781554f99e1d1f0ea5703e6bd0ab652a4ae6e06742fe1c",
+ "notes": "New Log in to Vinted button: opens a normal browser window so Continue with Google works, then the form filler reuses the login."
 }
