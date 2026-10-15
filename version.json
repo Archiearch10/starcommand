@@ -1,6 +1,6 @@
 {
- "version": "15.14",
- "url": "releases/StarCommand-v15.14.zip",
- "sha256": "a03c780d3d7cdb1f4cbc531ce6346eb5e91590f60136eeb5750037e4805e1e5d",
- "notes": "Pressing Fill on a Vinted item now opens the Vinted window and fills the form straight away."
+ "version": "15.15",
+ "url": "releases/StarCommand-v15.15.zip",
+ "sha256": "40f22e6beebb7b1d17de4ecbef869d22200ac8ec4167a6942b282c34c9f90aaa",
+ "notes": "Use StarCommand on any computer you sign in to: Settings > Keep StarCommand in my OneDrive."
 }
