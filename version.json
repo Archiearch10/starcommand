@@ -1,6 +1,6 @@
 {
- "version": "15.15",
- "url": "releases/StarCommand-v15.15.zip",
- "sha256": "40f22e6beebb7b1d17de4ecbef869d22200ac8ec4167a6942b282c34c9f90aaa",
- "notes": "Use StarCommand on any computer you sign in to: Settings > Keep StarCommand in my OneDrive."
+ "version": "15.16",
+ "url": "releases/StarCommand-v15.16.zip",
+ "sha256": "50b459f4d7412f0824eed387ef6f567cfb8abcfa24fc455c98f3e487cfdcc82f",
+ "notes": "Vinted listings much faster: quick analyse, form filled in the background in about 5 seconds (20 second limit)."
 }
