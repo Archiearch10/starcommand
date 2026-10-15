@@ -1,6 +1,6 @@
 {
- "version": "15.20",
- "url": "releases/StarCommand-v15.20.zip",
- "sha256": "3f91ab4f078a69423e0631a37508b2d51f9392410eddf94e5fd53a5a9e8293d8",
- "notes": "Fixes the Pixabay key test (it said unknown service)."
+ "version": "15.21",
+ "url": "releases/StarCommand-v15.21.zip",
+ "sha256": "e4d996a34562035be70b78bcedf51aebf416b33082c4edc786a3f5d5a45cbd4c",
+ "notes": "Video tools install more reliably (per-user install, pip repair); the Windows voice is used if the AI voice cannot install."
 }
