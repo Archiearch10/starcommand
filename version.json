@@ -1,6 +1,6 @@
 {
- "version": "15.19",
- "url": "releases/StarCommand-v15.19.zip",
- "sha256": "4c582eba6f2ed9e5d38456497d5de07e597e504a0b2bcbb34d08ce781a6c871b",
- "notes": "Pixabay stock videos supported (Pexels has paused new keys): paste a free Pixabay key in API keys."
+ "version": "15.20",
+ "url": "releases/StarCommand-v15.20.zip",
+ "sha256": "3f91ab4f078a69423e0631a37508b2d51f9392410eddf94e5fd53a5a9e8293d8",
+ "notes": "Fixes the Pixabay key test (it said unknown service)."
 }
