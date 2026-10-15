@@ -1,6 +1,6 @@
 {
- "version": "15.17",
- "url": "releases/StarCommand-v15.17.zip",
- "sha256": "5f6827776a52d93bf3acc55a811f97b786d38ae6534e23e9d44bf115e65039bc",
- "notes": "Much faster: office uses about a quarter of the computer power, batched saving, and AI requests queue so many agents can work at once."
+ "version": "15.18",
+ "url": "releases/StarCommand-v15.18.zip",
+ "sha256": "02490bcc0d944c293925739d29703c27cc776107f230025bd30a248abcead6a7",
+ "notes": "Claude (Anthropic) API keys are now supported: give any agent Claude in the agent editor."
 }
