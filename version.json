@@ -1,6 +1,6 @@
 {
- "version": "16.2",
- "url": "releases/StarCommand-v16.2.zip",
- "sha256": "88b823a3995dd0f042ffd9dfa6eb400d62abe96477a38ed03a4f048383e94dd3",
- "notes": "Radar no longer stops on the first scan; better free backup models."
+ "version": "16.3",
+ "url": "releases/StarCommand-v16.3.zip",
+ "sha256": "ca72cd43ea1377bac448201f0b41cc546f2fe7720e679bfdb6d5eba4cd3e9cd0",
+ "notes": "No more chat spam when Groq is busy: one note an hour, and agents go straight to the backup while Groq rests."
 }
