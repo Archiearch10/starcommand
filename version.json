@@ -1,6 +1,6 @@
 {
- "version": "16.1",
- "url": "releases/StarCommand-v16.1.zip",
- "sha256": "cf97b97405d6912b4ca4ec70cc57981930507aa8e3bd66a845029b4eadc82de0",
- "notes": "Deleting a room can now remove the whole business (agents, schedules, open tasks)."
+ "version": "16.2",
+ "url": "releases/StarCommand-v16.2.zip",
+ "sha256": "88b823a3995dd0f042ffd9dfa6eb400d62abe96477a38ed03a4f048383e94dd3",
+ "notes": "Radar no longer stops on the first scan; better free backup models."
 }
