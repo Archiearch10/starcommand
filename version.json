@@ -1,6 +1,6 @@
 {
- "version": "16.0",
- "url": "releases/StarCommand-v16.0.zip",
- "sha256": "c7a534c83c3ee7d3966902b47ceb6bd5490be65f76b578f2665fce7b0b484a35",
- "notes": "Viral Shorts factory: scans what went viral this week, works out why, makes Shorts for up to 3 niche accounts several times a day; much better-looking videos."
+ "version": "16.1",
+ "url": "releases/StarCommand-v16.1.zip",
+ "sha256": "cf97b97405d6912b4ca4ec70cc57981930507aa8e3bd66a845029b4eadc82de0",
+ "notes": "Deleting a room can now remove the whole business (agents, schedules, open tasks)."
 }
