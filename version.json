@@ -1,6 +1,6 @@
 {
- "version": "16.3",
- "url": "releases/StarCommand-v16.3.zip",
- "sha256": "ca72cd43ea1377bac448201f0b41cc546f2fe7720e679bfdb6d5eba4cd3e9cd0",
- "notes": "No more chat spam when Groq is busy: one note an hour, and agents go straight to the backup while Groq rests."
+ "version": "16.4",
+ "url": "releases/StarCommand-v16.4.zip",
+ "sha256": "950515eb1a7cdd2b5fb3304357cada6fa061e86c6aa1c999774bcc3eb3074da4",
+ "notes": "Viral Shorts safety rails: scans reused for 3 hours, max 3 accounts, account files checked."
 }
