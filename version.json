@@ -1,6 +1,6 @@
 {
- "version": "15.21",
- "url": "releases/StarCommand-v15.21.zip",
- "sha256": "e4d996a34562035be70b78bcedf51aebf416b33082c4edc786a3f5d5a45cbd4c",
- "notes": "Video tools install more reliably (per-user install, pip repair); the Windows voice is used if the AI voice cannot install."
+ "version": "16.0",
+ "url": "releases/StarCommand-v16.0.zip",
+ "sha256": "c7a534c83c3ee7d3966902b47ceb6bd5490be65f76b578f2665fce7b0b484a35",
+ "notes": "Viral Shorts factory: scans what went viral this week, works out why, makes Shorts for up to 3 niche accounts several times a day; much better-looking videos."
 }
